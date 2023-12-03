@@ -9,6 +9,7 @@ Contrastive Multimodal Learning:
 
 Single Cell Segmentation:
 
-<img width="985" alt="Screenshot 2023-12-02 at 5 10 17 AM" src="https://github.com/ZhiruiLi1/Deep_Learning_Research/assets/90368869/6caefbae-0003-45c6-b183-f9f47784066b">
+<img width="984" alt="Screenshot 2023-12-02 at 10 34 47 PM" src="https://github.com/ZhiruiLi1/Deep_Learning_Research/assets/90368869/51734869-bca3-4bd8-9460-b4f23db306a2">
+
 
 
